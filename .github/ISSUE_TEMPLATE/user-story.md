@@ -12,12 +12,12 @@ assignees: ''
  **So that** [benefit]  
    
  ### Details and Assumptions
- * [document what you know]
+ * [anything you already know]
    
  ### Acceptance Criteria  
    
  ```gherkin
- Given [some context]
- When [certain action is taken]
- Then [the outcome of action is observed]
+ Given [some precondition]
+ When [some event]
+ Then [some measurable outcome]
  ```
